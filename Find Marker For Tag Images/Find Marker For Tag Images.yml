@@ -4,7 +4,7 @@ version: 0.1
 url: 
 exec:
   - python
-  - "{pluginDir}/RandomMarkerVidForTagImages.py"
+  - "{pluginDir}/Find Marker For Tag Images.py"
 interface: raw
 tasks:
   - name: 'Apply Tag Image From Random Marker'
